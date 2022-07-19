@@ -4,7 +4,7 @@ Hi, Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 
 <p align="center">
   <a href="https://www.linkedin.com/in/taekhoonkim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-F75C7E?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="[https://techny.solidcommunity.net](https://techny.solidcommunity.net/profile/card#me)/" target="_blank"><img src="https://img.shields.io/badge/Solid-WebID-blueviolet?style=flat-square" alt="Solid WebID"/></a>
+  <a href="https://techny.solidcommunity.net/profile/card#me" target="_blank"><img src="https://img.shields.io/badge/Solid-WebID-blueviolet?style=flat-square" alt="Solid WebID"/></a>
 </p>
 
 <!--START_SECTION:waka-->
