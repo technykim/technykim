@@ -10,7 +10,7 @@ Hi, Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 <!--START_SECTION:waka-->
 
 - 🌱 I’m currently learning Semantic Web standards, FHIR, Node with JS and TS as well as SolidOS stack
-- 💬 Ask me about Solid and Knowledge Graphs
+- 💬 Ask me about Linked Data, Solid and Knowledge Graphs
 - 😄 Pronouns: he/his
 
  Last Updated on 19/07/2022 00:56:08 UTC
